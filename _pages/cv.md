@@ -26,7 +26,6 @@ Work experience
 * Research Associate · 2022 - 2023
   * UF Department of Psychology
   * Health Disparities Research & Intervention Program · Cancer Disparities Research Colloborative
-  * Supervisor: Carolyn M. Tucker
   
 Skills
 ======
