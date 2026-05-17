@@ -17,13 +17,13 @@ Education
 
 Work experience
 ======
-* Graduate Researcher | 2025 - Present
+* Graduate Researcher · 2025 - Present
   * UF Department of Linguistics
 
-* Administrative Specialist | 2023 - Present
+* Administrative Specialist · 2023 - Present
   * UF Center for Undergraduate Research
 
-* Research Associate | 2022 - 2023
+* Research Associate · 2022 - 2023
   * UF Department of Psychology
   * Health Disparities Research & Intervention Program · Cancer Disparities Research Colloborative
   * Supervisor: Carolyn M. Tucker
@@ -51,11 +51,11 @@ Talks
   
 Teaching
 ======
-* Teaching Assitant | Fall 2017
+* Teaching Assitant · Fall 2017
   * USF INTO Program
   
 Service and Leadership
 ======
 * USF Chinese Culture and Language Club
-  * Vice President and Multimedia Director | 2019 - 2020
-  * Event Director | 2018 - 2019
+  * Vice President and Multimedia Director · 2019 - 2020
+  * Event Director · 2018 - 2019
