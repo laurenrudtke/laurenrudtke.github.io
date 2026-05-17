@@ -11,26 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in Linguistics, University of Florida, 2027
+* B.A. in World Languages and Cultures - Applied Lingusitics, University of South Florida, 2020
+* B.A. in Sociology, University of South Florida, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Researcher | 2025 - Present
+  * UF Department of Linguistics
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Administrative Specialist | 2023 - Present
+  * UF Center for Undergraduate Research
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Associate | 2022 - 2023
+  * UF Department of Psychology
+  * Health Disparities Research & Intervention Program · Cancer Disparities Research Colloborative
+  * Supervisor: Carolyn M. Tucker
   
 Skills
 ======
@@ -55,10 +51,11 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Teaching Assitant | Fall 2017
+  * USF INTO Program
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* USF Chinese Culture and Language Club
+  * Vice President and Multimedia Director | 2019 - 2020
+  * Event Director | 2018 - 2019
